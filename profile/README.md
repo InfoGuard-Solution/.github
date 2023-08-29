@@ -1,6 +1,3 @@
-![logo](https://github.com/InfoGuard-Solution/.github/assets/79330086/6cc46963-0d57-4c48-b336-32fde7e9c73a)
-
-
 <h2>Quem Somos</h2>
     
    > Somos a Info guard solutions, uma empresa de tecnologia atuante no setor de monitoramento avançado de hardware, capacitando empresas a otimizar desempenho e segurança. Nossa empresa oferece análise em tempo real, insights para ação proativa e maximização do valor tecnológico.
@@ -22,7 +19,7 @@
     
 <div style = "display: flex;"> 
 <div style = "width:100%;">
-<img alt="Foto Gabriel" src="https://user-images.githubusercontent.com/86174349/228006367-e5a7a6ce-849f-4b54-95cb-563a96023245.png" width = 200 align="left">
+<img alt="Foto abraao" src="https://user-images.githubusercontent.com/86174349/228006367-e5a7a6ce-849f-4b54-95cb-563a96023245.png"  width = 200 height = 200 align="left">
 </div>
     <h4>Abraão Marcos Martins</h4>
   <p><i>
@@ -39,7 +36,7 @@
         </a>
 <hr>
 <div style = "width:100%;">
-<img alt="Foto Gabriel" src="/fotoErick.jpg" width = 200 align="left">
+<img alt="Foto erick" src="https://github.com/InfoGuard-Solution/.github/assets/79330086/440b1842-49fe-4d51-94eb-03c3cb483104)" width = 200 height = 200 align="left">
 </div>
     <h4>Erick Terentowicz</h4>
   <p><i>
@@ -56,7 +53,7 @@
         </a>
 <hr>
   <div style = "width:100%;">
-<img alt="Foto Gabriel" src="https://user-images.githubusercontent.com/86174349/228006367-e5a7a6ce-849f-4b54-95cb-563a96023245.png" width = 200 align="left">
+<img alt="Foto Gabriel" src="https://user-images.githubusercontent.com/86174349/228006367-e5a7a6ce-849f-4b54-95cb-563a96023245.png"  width = 200 height = 200  align="left">
 </div>
     <h4>Gabriel Roberti Batista</h4>
   <p><i>
@@ -73,7 +70,7 @@
         </a>
 <hr>
   <div style = "width:100%;">
-<img alt="Foto Gabriel" src="/MuriloMazzoni.png" width = 200 align="left">
+<img alt="Foto murilo" src="https://github.com/InfoGuard-Solution/.github/assets/79330086/f050b04e-6ceb-4747-928b-eb5412b16403" width = 200 height = 200  align="left">
 </div>
     <h4>Murilo Mazzoni dos Santos</h4>
   <p><i>
@@ -90,7 +87,7 @@
         </a>
 <hr>
   <div style = "width:100%;">
-<img alt="Foto Gabriel" src="/fotoGarrafa.jpg" width = 200 align="left">
+<img alt="Foto rafael" src="https://github.com/InfoGuard-Solution/.github/assets/79330086/957b846c-d5e1-4054-8392-599e9974d8a5" width = 200 height = 200 align="left">
 </div>
     <h4>Rafael Alves Reis</h4>
   <p><i>
