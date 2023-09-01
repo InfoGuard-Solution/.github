@@ -25,10 +25,10 @@
   <p><i>
         - Estudante na Universidade SPTECH, faculdade de tecnologia de São Paulo.<br>
         - Um dos COs da organização <b>Info guard</b><br>
-        <a href= "url.com">
+        <a href= "https://github.com/abraaomarcos">
         <img alt="Rede Social" src="https://cdn-icons-png.flaticon.com/512/5968/5968866.png" align="center" width="50" height="50">
        </a>
-       <a href= "url.com">
+       <a href= "https://www.instagram.com/abraao.m3/">
        <img alt="Rede Social" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRqxJYUdQM20b-kpw0btYL7orcsnvUnvSJtA&usqp=CAU" align="center" width="50" height="50">
        </a>
         <a href= "https://www.linkedin.com/in/abraaomarcos/">
