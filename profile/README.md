@@ -24,7 +24,7 @@
     <h4>Abraão Marcos Martins</h4>
   <p><i>
         - Estudante na Universidade SPTECH, faculdade de tecnologia de São Paulo.<br>
-        - Um dos COs da organização <b>Info guard</b><br>
+        - Um dos Sociofundadores da organização <b>Info guard</b><br>
         <a href= "https://github.com/abraaomarcos">
         <img alt="Rede Social" src="https://cdn-icons-png.flaticon.com/512/5968/5968866.png" align="center" width="50" height="50">
        </a>
@@ -41,7 +41,7 @@
     <h4>Erick Terentowicz</h4>
   <p><i>
         - Estudante na Universidade SPTECH, faculdade de tecnologia de São Paulo.<br>
-        - Um dos COs da organização <b>Info guard</b><br>
+        - Um dos Sociofundadores da organização <b>Info guard</b><br>
         <a href= "url.com">
         <img alt="Rede Social" src="https://cdn-icons-png.flaticon.com/512/5968/5968866.png" align="center" width="50" height="50">
        </a>
@@ -58,7 +58,7 @@
     <h4>Gabriel Roberti Batista</h4>
   <p><i>
         - Estudante na Universidade SPTECH, faculdade de tecnologia de São Paulo.<br>
-        - Um dos COs da organização <b>Info guard</b><br>
+        - Um dos Sociofundadores da organização <b>Info guard</b><br>
         <a href= "url.com">
         <img alt="Rede Social" src="https://cdn-icons-png.flaticon.com/512/5968/5968866.png" align="center" width="50" height="50">
        </a>
@@ -75,7 +75,7 @@
     <h4>Murilo Mazzoni dos Santos</h4>
   <p><i>
         - Sou um estudante em Análise e Desenvolvimento de Sistemas na SPTech.<br>
-        - Um dos COs fundadores da organização <b>Info guard</b><br>
+        - Um dos Sociofundadores fundadores da organização <b>Info guard</b><br>
         <a href= "url.com">
         <img alt="Rede Social" src="https://cdn-icons-png.flaticon.com/512/5968/5968866.png" align="center" width="50" height="50"">
        </a>
@@ -92,7 +92,7 @@
     <h4>Rafael Alves Reis</h4>
   <p><i>
         - Estudante na Universidade SPTECH, faculdade de tecnologia de São Paulo.<br>
-        - Um dos COs da organização <b>Info guard</b><br>
+        - Um dos Sociofundadores da organização <b>Info guard</b><br>
         <a href= "url.com">
         <img alt="Rede Social" src="https://cdn-icons-png.flaticon.com/512/5968/5968866.png" align="center" width="50" height="50">
        </a>
@@ -109,7 +109,7 @@
     <h4>Winycios alves nascimento</h4>
   <p><i>
         - Estudante na Universidade SPTECH, faculdade de tecnologia de São Paulo.<br>
-        - Um dos COs da organização <b>Info Guard</b><br>
+        - Um dos Sociofundadores da organização <b>Info Guard</b><br>
         <a href= "url.com">
         <img alt="Rede Social" src="https://cdn-icons-png.flaticon.com/512/5968/5968866.png" align="center" width="50" height="50" >
        </a>
