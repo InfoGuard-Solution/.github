@@ -19,7 +19,7 @@
     
 <div style = "display: flex;"> 
 <div style = "width:100%;">
-<img alt="Foto abraao" src="https://user-images.githubusercontent.com/86174349/228006367-e5a7a6ce-849f-4b54-95cb-563a96023245.png"  width = 200 height = 200 align="left">
+<img alt="Foto abraao" src="https://avatars.githubusercontent.com/u/106087403?v=4" width = 200 height = 200 align="left">
 </div>
     <h4>Abraão Marcos Martins</h4>
   <p><i>
