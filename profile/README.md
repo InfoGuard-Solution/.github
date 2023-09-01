@@ -31,7 +31,7 @@
        <a href= "url.com">
        <img alt="Rede Social" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRqxJYUdQM20b-kpw0btYL7orcsnvUnvSJtA&usqp=CAU" align="center" width="50" height="50">
        </a>
-        <a href= "https://br.linkedin.com/in/gabriel-roberti-9856671a0?trk=people-guest_people_search-card">
+        <a href= "https://www.linkedin.com/in/abraaomarcos/">
         <img alt="Rede Social" src="https://user-images.githubusercontent.com/86174349/228012688-97fdee29-8f40-4804-b9cc-a1042ab09598.png" align="center" width="50" height="50">
         </a>
 <hr>
