@@ -1,6 +1,6 @@
 <h2>Quem Somos</h2>
     
-   > Somos a Info guard solutions, uma empresa de tecnologia atuante no setor de monitoramento avançado de hardware, capacitando empresas a otimizar desempenho e segurança. Nossa empresa oferece análise em tempo real, insights para ação proativa e maximização do valor tecnológico.
+   > Somos a Infoguard solutions, uma empresa de tecnologia atuante no setor de monitoramento avançado de hardware, capacitando empresas a otimizar desempenho e segurança. Nossa empresa oferece análise em tempo real, insights para ação proativa e maximização do valor tecnológico.
 
 <h2>Nossos Ideais</h2>
 <h3>Missão</h3>
